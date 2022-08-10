@@ -1,7 +1,7 @@
-title: Minimalist theme
+title: Unai Fernandez
 logo: /assets/img/logo.png
-email: bogus at gmail dot com
-description: Minimalist is a theme powered by Jekyll. It is modified based on the Minimal theme.
+email: fernandezunai027@gmail.com
+description: Computer Engineering 
 show_downloads: false
 google_analytics: UA-108144808-1
 color-scheme: auto
@@ -9,20 +9,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-remote-theme
 
 sidebar:
-  - name: Google Scholar
-    icon: fa-solid fa-user-graduate
-    link: https://scholar.google.com/citations?user=zR6afi8AAAAJ
-  - name: GitHub
+  - name: Github
     icon: fa-brands fa-github
-    link: https://github.com/BDHU
-  - name: Twitter
-    icon: fa-brands fa-twitter
-    link: https://twitter.com/BodunHu
-  - name: Blog
-    icon: fa-solid fa-pen
-    link: https://www.bodunhu.com/blog/
-  - name: Project Repository
+    link: https://github.com/UnaiFernandez
+  - name: Yoni_the_robot
     icon: fa-solid fa-box-archive
-    link: https://github.com/BDHU/minimalist
+    link: https://github.com/UnaiFernandez/Yoni_the_robot
+  - name: kernel_simulator
+    icon: fa-solid fa-box-archive
+    link: https://github.com/UnaiFernandez/kernel_simulator
+  - name: SGSSI_minero
+    icon: fa-solid fa-box-archive
+    link: https://github.com/UnaiFernandez/SGSSI_minero
+  - name: minimeteo
+    icon: fa-solid fa-box-archive
+    link: https://github.com/UnaiFernandez/minimeteo

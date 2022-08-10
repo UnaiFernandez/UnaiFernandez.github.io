@@ -1,14 +1,7 @@
----
-layout: default
----
-# Home
-
-### [Minimeteo](./minimeteo.html) | [Minimeteo2](./minimeteo.html) 
+# Minimeteo
 * * *
 
-### Recent articles
-
-#### [Minimeteo: Serial communication with ESP8266 module](./arduino_wifi.html)
+### [Minimeteo: Serial communication with ESP8266 module](./arduino_wifi.html)
 
 There should be whitespace between paragraphs.
 
